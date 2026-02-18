@@ -7,7 +7,7 @@ os.chdir(REPO_PATH)
 
 # Set the date range: Jan 1, 2025 to Sep 30, 2025
 start_date = datetime(2025, 1, 1)
-end_date = datetime(2025, 9, 30)
+end_date = datetime(2025, 8, 30)
 
 # Number of commits per day (shuffled)
 commits_per_day = [15, 20, 18, 10]
